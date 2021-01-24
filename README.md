@@ -9,13 +9,9 @@ I'm a backend developer passionate for learning and sharing my knowledge with ot
 [<img align="left" alt="Derik | Youtube" height="22px" src="./socialmedia/youtube.png" />][youtube]
 [<img align="left" alt="Derik | Instagram" height="22px" src="./socialmedia/instagram.png" />][instagram]
 
-<br />
-
 <p align="right">
 <em>Don't hesitate to get in touch!</em>
 </p>
-
----
 
 ### Languages and Tools:
 
@@ -35,9 +31,7 @@ I'm a backend developer passionate for learning and sharing my knowledge with ot
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
---
-
-## 📈 GitHub Stat's
+### 📈 GitHub Stat's
 
 > NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
