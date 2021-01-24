@@ -1,6 +1,6 @@
 ### Hi there, I'm André Soares - <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-I'm a backend developer passionate for learning and sharing my knowledge with others. When I'm not developing and building things, you can find me on Youtube learning about music theory, playing chess online or even watching some cool serie.
+I'm a backend developer passionate for learning and sharing my knowledge with others. When I'm not developing and building things, you can find me on Youtube learning about music theory, playing chess online or even watching some cool TV serie.
 
 #### Connect with me:
 
