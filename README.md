@@ -35,7 +35,7 @@ I'm a backend developer passionate for learning and sharing my knowledge with ot
 
 > NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soaresderik&layout=compact&hide=php&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soaresderik&layout=compact&hide=css&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=soaresderik&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)
 
 ---
